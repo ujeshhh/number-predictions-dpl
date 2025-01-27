@@ -1,4 +1,4 @@
-# deeplearning number predicition using tensorflow
+# Deeplearning number predicition using tensorflow
 
 In this project, I have built a machine learning model using TensorFlow and Keras to classify handwritten digits from the MNIST dataset, which consists of 28x28 pixel images of digits 0-9. The goal is to develop a model that can correctly predict the digit in an image based on its pixel values.
 
